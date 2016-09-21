@@ -10,4 +10,4 @@ The repo contains the entire workflow as Jupyter notebooks:
  - [3](https://github.com/HullUni-bioinformatics/Blackman_et_al_Gfossarum_UK/tree/master/3-extract_haplotypes) - extracting of COI haplotypes from metabarcoding data for subsequent tree inference
  - [4](https://github.com/HullUni-bioinformatics/Blackman_et_al_Gfossarum_UK/tree/master/4-infer_phylogeny/Gammarus_phylogeny.ipynb) - Phylogenetic tree inference.
 
-
+All analyses were performed in the self contained docker container of metaBEAT [v0.97](https://github.com/HullUni-bioinformatics/metaBEAT/releases/tag/v0.97), available from [here](https://hub.docker.com/r/chrishah/metabeat/).
