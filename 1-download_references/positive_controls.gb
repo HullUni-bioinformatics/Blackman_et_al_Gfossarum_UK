@@ -1,0 +1,248 @@
+LOCUS       EF189678                 714 bp    DNA     linear   INV 14-JUL-2016
+DEFINITION  Triops cancriformis ZMUC CRU-9950 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EF189678
+VERSION     EF189678.1
+KEYWORDS    .
+SOURCE      mitochondrion Triops cancriformis
+  ORGANISM  Triops cancriformis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Branchiopoda;
+            Notostraca; Triopsidae; Triops.
+REFERENCE   1  (bases 1 to 714)
+  AUTHORS   Richter,S., Olesen,J. and Wheeler,W.C.
+  TITLE     Phylogeny of Branchiopoda (Crustacea) based on a combined analysis
+            of morphological data and six molecular loci
+  JOURNAL   Cladistics 23 (4), 301-336 (2007)
+REFERENCE   2  (bases 1 to 714)
+  AUTHORS   Richter,S., Olesen,J. and Wheeler,W.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2006) Friedrich-Schiller-Universitaet Jena,
+            Institut fuer Spezielle Zoologie und Evolutionsbiologie, Erbertstr.
+            1, Jena, Thuringia 07743, Germany
+FEATURES             Location/Qualifiers
+     source          1..714
+                     /organism="Triops cancriformis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMUC CRU-9950"
+                     /db_xref="taxon:194544"
+                     /collected_by="S. Richter"
+                     /identified_by="S. Richter"
+     gene            <1..>714
+                     /gene="COI"
+     CDS             <1..>714
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ABO28843.1"
+                     /translation="DDQIYNVVVTAHAFIMIFFMVMPILIGGFGNWLVPLMLGAPDMA
+                     FPRLNNMSFWLLPPALTLLLSGGAVESGAGTGWTVYPPLSSGIAHAGASVDLSIFSLH
+                     LAGISSILGAINFITTIINMRTSGMSLDRIPLFVWAVGITALLLLLSLPVLAGAITML
+                     LTDRNLNTSFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIISQESGKKEA
+                     FGTLGMIYAMLAIGVLGFVV"
+ORIGIN      
+        1 gatgatcaaa tctataatgt agttgttaca gctcatgcat tcattataat tttctttata
+       61 gttataccaa ttttgattgg aggattcggt aattgattag tacctcttat attaggagct
+      121 cctgacatag cctttccccg ccttaataat ataagattct gacttcttcc tcccgcatta
+      181 accttattat tatcaggagg agccgtagaa agaggagctg gaacaggatg aactgtttat
+      241 cctcctttgt caagaggcat tgcccatgct ggcgcctctg tcgatttaag aatcttttca
+      301 cttcatttag caggaatttc atcaatttta ggtgccatta actttatcac aacaatcatt
+      361 aatatgcgaa ctagaggaat atctctagat cggatcccat tatttgtgtg agctgtggga
+      421 attactgctc ttctcctttt actgtcactt cccgttctag caggagctat tactatatta
+      481 ttaacagacc gaaatcttaa tacatcattt tttgacccag ctggaggagg ggaccctatc
+      541 ctgtatcaac atttattttg atttttcggt cacccggaag tttatatttt aattttgcca
+      601 ggattcggaa taatctctca cattattaga caagaaagtg ggaaaaagga agccttcgga
+      661 acgttaggaa taatttacgc catattagct attggggtgc taggatttgt ggtg
+//
+
+LOCUS       JX110644                 616 bp    DNA     linear   INV 16-FEB-2013
+DEFINITION  Triops cancriformis cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   JX110644
+VERSION     JX110644.1
+KEYWORDS    .
+SOURCE      mitochondrion Triops cancriformis
+  ORGANISM  Triops cancriformis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Branchiopoda;
+            Notostraca; Triopsidae; Triops.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Mathers,T.C., Hammond,R.L., Jenner,R.A., Zierold,T., Hanfling,B.
+            and Gomez,A.
+  TITLE     High lability of sexual system over 250 million years of evolution
+            in morphologically conservative tadpole shrimps
+  JOURNAL   BMC Evol. Biol. 13 (1), 30 (2013)
+   PUBMED   23384124
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Mathers,T.C., Hammond,R.L., Jenner,R.A., Zierold,T., Hanfling,B.
+            and Gomez,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2012) Biological Sciences, University of Hull,
+            Cottingham Rd., Hull, Humberside HU170AL, UK
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Triops cancriformis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:194544"
+     gene            <1..>616
+                     /gene="COI"
+     CDS             <1..>616
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AGE92571.1"
+                     /translation="ALSLLIRAELGQPGSLIGDDQIYNVVVTAHAFIMIFFMVMPILI
+                     GGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPALTLLLSGGAVESGAGTGWTVYPPLS
+                     SGIAHAGASVDLSIFSLHLAGISSILGAINFITTIINMRTSGMSLDRIPLFVWAVGIT
+                     ALLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 cagcactaag tcttttaatt cgagcagaat taggacaacc tggaagacta attggagatg
+       61 atcaaatcta taatgtagtt gttacagctc atgcattcat tataattttc tttatagtta
+      121 taccaatttt gattggagga ttcggtaatt gattagtacc tcttatatta ggagctcctg
+      181 acatagcctt tccccgcctt aataatataa gattctgact tcttcctccc gcattaacct
+      241 tattattatc aggaggagcc gtagaaagag gagctgggac aggatgaact gtttatcctc
+      301 ctttgtcaag aggcattgcc catgctggcg cctctgtcga tttaagaatc ttttcacttc
+      361 atttagcagg gatttcatca attttaggtg ccattaactt tatcacaaca atcattaata
+      421 tgcgaactag aggaatatct ctagatcgga tcccattatt tgtgtgagct gtgggaatta
+      481 ctgctcttct ccttttactg tcacttcccg ttctagcagg agctattact atattattaa
+      541 cagaccgaaa tcttaataca tcattttttg acccagctgg aggaggggac cctatcctgt
+      601 atcaacattt attttg
+//
+
+LOCUS       KU188380                 658 bp    DNA     linear   INV 09-AUG-2016
+DEFINITION  Harmonia axyridis voucher NSMK:IN-0045940 cytochrome c oxidase
+            subunit I (CO1) gene, partial cds; mitochondrial.
+ACCESSION   KU188380
+VERSION     KU188380.1
+KEYWORDS    .
+SOURCE      mitochondrion Harmonia axyridis
+  ORGANISM  Harmonia axyridis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+            Cucujiformia; Coccinellidae; Coccinellinae; Coccinellini; Harmonia.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Jung,S.W., Min,H.K., Kim,Y.-H., Choi,H.A., Lee,S.Y., Bae,Y.J. and
+            Paek,W.K.
+  TITLE     A DNA barcode library of the beetle reference collection (Insecta:
+            Coleoptera) in the National Science Museum, Korea
+  JOURNAL   J Asia Pac Biodivers 9 (2), 234-244 (2016)
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Jung,S.W., Min,H.K. and Choi,H.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-NOV-2015) Reserch&Promotion Division, National
+            Science Museum of Korea, 481 Daedeokdaero, Yuseong-gu, Daejeon
+            305-705, Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA 6 v. 6.06
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Harmonia axyridis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NSMK:IN-0045940"
+                     /db_xref="taxon:115357"
+                     /country="South Korea"
+                     /lat_lon="36.3702 N 128.5147 E"
+                     /collection_date="10-Apr-2014"
+                     /collected_by="Hong-ki Min"
+                     /identified_by="Hong-ki Min"
+                     /note="authority: Harmonia axyridis (Pallas)"
+     gene            <1..>658
+                     /gene="CO1"
+     CDS             <1..>658
+                     /gene="CO1"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ANY59064.1"
+                     /translation="TLYFLFGMWAGMVGTSLSILIRLELGTSGSLIGNDQIYNMIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPALTLLILSTIV
+                     EMGAGTGWTVYPPLSSNLTHNGPSVDLVIFSLHLAGISSILGAVNFISTIMNMRPFGM
+                     MLDKTPLFVWSVLITAILLLLSLPVLAGAITMLLTDRNLNSSFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aacattatac tttttatttg gaatatgggc aggaatagta ggaacatcgt taagtatttt
+       61 aattcggtta gaattaggaa ctagaggaag attaattgga aacgaccaaa tttataatat
+      121 aattgttaca gctcatgctt tcattataat tttctttata gtaataccta ttataattgg
+      181 gggttttgga aattgattag ttcctttaat aattggagct cctgatatag catttccacg
+      241 attaaataac ataagatttt gacttttacc ccctgcttta actcttttaa ttttaagaac
+      301 aatcgtagaa ataggggcag gaacaggatg aactgtttac cctcctcttt cttctaattt
+      361 aacacataat gggccttcag tagatttagt gatttttagt ttacatttag caggaatttc
+      421 ctcaatttta ggtgcagtaa atttcatttc aactattata aatatacgtc catttggtat
+      481 aatacttgat aaaactcctt tatttgtatg atctgttctt attacagcaa ttcttttatt
+      541 actatcacta ccagttcttg caggagcaat tactatacta ttaactgacc gaaacttaaa
+      601 ttcttctttt tttgacccaa ccggtggggg agacccaatt ttataccaac atttattt
+//
+
+LOCUS       KU188381                 658 bp    DNA     linear   INV 09-AUG-2016
+DEFINITION  Harmonia axyridis voucher NSMK:IN-0045941 cytochrome c oxidase
+            subunit I (CO1) gene, partial cds; mitochondrial.
+ACCESSION   KU188381
+VERSION     KU188381.1
+KEYWORDS    .
+SOURCE      mitochondrion Harmonia axyridis
+  ORGANISM  Harmonia axyridis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+            Cucujiformia; Coccinellidae; Coccinellinae; Coccinellini; Harmonia.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Jung,S.W., Min,H.K., Kim,Y.-H., Choi,H.A., Lee,S.Y., Bae,Y.J. and
+            Paek,W.K.
+  TITLE     A DNA barcode library of the beetle reference collection (Insecta:
+            Coleoptera) in the National Science Museum, Korea
+  JOURNAL   J Asia Pac Biodivers 9 (2), 234-244 (2016)
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Jung,S.W., Min,H.K. and Choi,H.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-NOV-2015) Reserch&Promotion Division, National
+            Science Museum of Korea, 481 Daedeokdaero, Yuseong-gu, Daejeon
+            305-705, Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA 6 v. 6.06
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Harmonia axyridis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NSMK:IN-0045941"
+                     /db_xref="taxon:115357"
+                     /country="South Korea"
+                     /lat_lon="36.3702 N 128.5147 E"
+                     /collection_date="10-Apr-2014"
+                     /collected_by="Hong-ki Min"
+                     /identified_by="Hong-ki Min"
+                     /note="authority: Harmonia axyridis (Pallas)"
+     gene            <1..>658
+                     /gene="CO1"
+     CDS             <1..>658
+                     /gene="CO1"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ANY59065.1"
+                     /translation="TLYFLFGMWAGMVGTSLSILIRLELGTSGSLIGNDQIYNMIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPALTLLILSTIV
+                     EMGAGTGWTVYPPLSSNLTHNGPSVDLVIFSLHLAGISSILGAVNFISTIMNMRPFGM
+                     MLDKTPLFVWSVLITAILLLLSLPVLAGAITMLLTDRNLNSSFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aacattatac tttttatttg gaatatgggc aggaatagta ggaacatcgt taagtatttt
+       61 aattcggtta gaattaggaa ctagaggaag attaattgga aacgaccaaa tttataatat
+      121 aattgttaca gctcatgctt tcattataat tttctttata gtaataccta ttataattgg
+      181 gggttttgga aattgattag ttcctttaat aattggagct cctgatatag catttccacg
+      241 attaaataac ataagatttt gacttttacc ccctgcttta actcttttaa ttttaagaac
+      301 aatcgtagaa ataggggcag gaacaggatg aactgtttac cctcctcttt cttctaattt
+      361 aacacataat gggccttcag tagatttagt gatttttagt ttacatttag caggaatttc
+      421 ctcaatttta ggtgcagtaa atttcatttc aactattata aatatacgtc catttggtat
+      481 aatacttgat aaaactcctt tatttgtatg atctgttctt attacagcaa ttcttttatt
+      541 actatcacta ccagttcttg caggagcaat tactatacta ttaactgacc gaaacttaaa
+      601 ttcttctttt tttgacccaa ccggtggggg agacccaatt ttataccaac atttattt
+//
+
