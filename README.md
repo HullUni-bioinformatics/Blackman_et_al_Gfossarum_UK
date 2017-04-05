@@ -4,7 +4,7 @@ Data processing workflow and supplementary data for:
 
 __Blackman et al. 2017__ - Detection of a new non-native freshwater species by DNA metabarcoding of environmental samples - first record of Gammarus fossarum in the UK. _Aquatic Invasions_. In press.
 
-This Repository has been archived permanently: 
+This Repository has been archived permanently: [![DOI](https://zenodo.org/badge/68293017.svg)](https://zenodo.org/badge/latestdoi/68293017) 
 
 The repo contains the entire workflow as Jupyter notebooks:
  - [1](https://github.com/HullUni-bioinformatics/Blackman_et_al_Gfossarum_UK/blob/master/1-download_references/prepare_reference.ipynb) - downloading of reference data
