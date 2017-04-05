@@ -2,7 +2,9 @@
 
 Data processing workflow and supplementary data for: 
 
-__Blackman et al.__ - First record of GAMMARUS FOSSARUM (Koch, 1836) (AMPHIPODA, GAMMARIDEA) in the UK - a new non-native species discovered using Environmental DNA
+__Blackman et al. 2017__ - Detection of a new non-native freshwater species by DNA metabarcoding of environmental samples - first record of Gammarus fossarum in the UK. _Aquatic Invasions_. In press.
+
+This Repository has been archived permanently: 
 
 The repo contains the entire workflow as Jupyter notebooks:
  - [1](https://github.com/HullUni-bioinformatics/Blackman_et_al_Gfossarum_UK/blob/master/1-download_references/prepare_reference.ipynb) - downloading of reference data
